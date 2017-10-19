@@ -1,0 +1,11 @@
+{
+    "name": "sixpaths/http",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Jack O'Hara",
+            "email": "jack.ohara@sixpaths.co.uk"
+        }
+    ],
+    "require": {}
+}
